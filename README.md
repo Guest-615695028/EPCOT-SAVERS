@@ -15,8 +15,8 @@ TWD  99.99
 INR  99.
 
 Free download on GITHUB!
-## Picture branch
-Due to copyright issues, I can not use some of them in printed EPCOT SAVERS without lisencing.
+## "Pictures" branch
+Due to copyright issues, I can not use some of them in printed EPCOT SAVERS without lisencing, so I leave them in branch "Pictures".
 
 ## Language versions
 * English
