@@ -20,7 +20,7 @@ Due to copyright issues, I can not use some of them in printed EPCOT SAVERS with
 
 ## Language versions
 * English
-* _Chinese_ (Traditional only due to missimplification in both Mainland China and Japan)
+* Chinese (Traditional only, due to missimplification in both Mainland China and Japan)
 * _French_
 * _German_
 * _Spanish_
